@@ -1,0 +1,108 @@
+Ques-1)  Consider a body moving with an acceleration of 2 m/s². After t seconds its velocity is 10 m/s. Find ‘t’.
+
+(a) 5s               
+
+(b) 10s
+         
+(c) 20s
+              
+(d) 8s
+
+
+Ques-2)  Two trains of 40 m length are travelling in opposite directions with a velocity of 10 m/s and 15 m/s. What is the time of crossing?
+         
+(a) 3.2s             
+
+(b) 2.3s
+         
+(c) 4.4s             
+
+(d) 1s
+
+
+Ques-3)  Unit of acceleration is _________________
+         
+(a) m/s2             
+
+(b) m/s
+         
+(c) m/s3             
+
+(d) m2/s
+
+
+Ques-4)  When the distance travelled by a body is proportional to the time taken. What happens to its speed?
+         
+(a) Remains the same        
+
+(b) Increases
+         
+(c) Decreases               
+
+(d) Becomes zero
+
+
+Ques-5)  Which is the formula for motion in a straight line
+         
+(a) v =u + at              
+
+(b) v =u – at
+         
+(c) U = 2at+v              
+
+(d) v = 2at+u
+
+
+Ques-6)  Which among the following can be zero when a particle is in motion for some time.
+         
+(a) Displacement           
+
+(b) Speed
+         
+(c) Force                  
+
+(d) Time
+
+
+Ques-7)  The ratio of the average velocity and average speed of a body is
+         
+(a) 1 or less than 1        
+
+(b) More than 1
+         
+(c) 1                       
+
+(d) None of these options
+
+
+Ques-8)  For the motion with uniform velocity, the slope of the velocity-time graph is equal to
+         
+(a) Zero                       
+
+(b) Initial velocity
+         
+(c) Final velocity             
+
+(d) One
+
+
+Ques-9)  The change in velocity corresponding to the time interval within which the change has accelerated is known as _________________
+         
+(a) Speed                                     
+
+(b) Instantaneous Velocity
+         
+(c) Uniform Motion                            
+
+(d) Average Acceleration
+
+
+Ques-10) A particle is moving with a constant speed along a straight-line path. A force is not required to
+         
+(a) change its direction                       
+
+(b) decrease its speed
+         
+(c) keep it moving with uniform velocity       
+
+(d) Increase its momentum
